@@ -21,7 +21,6 @@ Dropbox
 .gimp-2.8
 .git
 .gitconfig
-.gitignore
 .gnupg
 .gphoto
 .ICEauthority
@@ -49,3 +48,8 @@ Videos
 .Xauthority
 .xsession-errors
 .xsession-errors.old
+.dropbox-bin/
+.dropbox-dist/
+Lynx.trace
+Release.key
+
