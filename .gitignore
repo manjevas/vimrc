@@ -52,4 +52,17 @@ Videos
 .dropbox-dist/
 Lynx.trace
 Release.key
+Steam
+windows
+
+.jackdrc
+.log/
+.pki/
+.pulse-cookie
+.steam/
+.steampath
+.steampid
+.vim/
+.wineprefixes/
+pulse-effects-64bit.deb
 
