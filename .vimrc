@@ -17,7 +17,7 @@
 "		- Syntax highlighting
 "		- Set tab to 4 spaces
 "		- Set autoindent on
-"		- Show the matching part of the parir for [], {} and ()
+"		- Show the matching part of the pair for [], {} and ()
 "		- Enable all python syntax highlighting features
 "
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
